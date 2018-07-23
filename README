@@ -1,0 +1,7 @@
+A function generator capable of producing sine, square and trianglular waves of varying frequency.
+Created using the Texas Instruments MSP430 microprocessor Rev 1.4 and a sauderless breadboard
+Hardware includes two digital to analog converters- a resistor ladder and a low pass filter
+Why alpha? There is also a draw mode availble on the function generator, which is controllable using 
+2 switches- one for movement in x, and the other for movement in y. However, its super buggy, and the 
+microprocessor ran out of memory, resuliting in a snake being drawn on screen. Its also incredibly
+and movement in all dimensions is not perfect. 
